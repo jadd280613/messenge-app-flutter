@@ -1,8 +1,8 @@
+import 'package:flutter/material.dart';
+
 import 'package:chat/widgets/boton_azul.dart';
 import 'package:chat/widgets/labels.dart';
 import 'package:chat/widgets/logo.dart';
-import 'package:flutter/material.dart';
-
 import 'package:chat/widgets/custom_input.dart';
 
 class LoginPage extends StatelessWidget {
